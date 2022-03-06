@@ -1,0 +1,40 @@
+.body {
+  font-size: 14px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.logo {
+  width: 150px;
+}
+
+h1 {
+  color: red;
+}
+
+.introduction_text_block {
+  background-color: blue;
+  color: #fff;
+  width: 100px;
+  margin-bottom: 120px;
+}
+
+.introduction span {
+  color: red;
+}
+
+.quation_one h2 {
+  background-color: green;
+  color: #fff;
+  font-weight: normal;
+}
+
+.quation_one a{
+    color: blue;
+}
+
+.quation_two h2{
+    padding: 35px;
+    background-color: green;
+    color: #fff;
+    font-weight: normal;
+}
