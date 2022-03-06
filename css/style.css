@@ -4,7 +4,7 @@
 }
 
 .logo {
-  width: 150px;
+  width: 130px;
 }
 
 h1 {
@@ -22,19 +22,43 @@ h1 {
   color: red;
 }
 
-.quation_one h2 {
+.quation_one h2{
   background-color: green;
   color: #fff;
   font-weight: normal;
 }
 
-.quation_one a{
-    color: blue;
+a {
+  color: blue;
 }
 
-.quation_two h2{
-    padding: 35px;
-    background-color: green;
-    color: #fff;
-    font-weight: normal;
+.quation_two h2 {
+  padding: 35px;
+  background-color: green;
+  color: #fff;
+  font-weight: normal;
+}
+
+.quation_two p {
+  width: 40%;
+  text-align: center;
+}
+
+input {
+  border: 1px solid black;
+}
+
+ul {
+  font-size: 25px;
+}
+
+li {
+  border: 1px solid;
+}
+
+.finish {
+  background-color: green;
+  color: #fff;
+  font-weight: normal;
+  padding: 5px;
 }
